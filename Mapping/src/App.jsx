@@ -20,6 +20,7 @@ function App() {
       {isLoggedIn && <h1>Welcome to the App!</h1>}
 
       {/* If Else / Ternary Statement */}
+      {/* If Else / Ternary Statement......... */}
       {marks >= 75 ? (
         <h1>You have passed the exam!</h1>
       ) : (
